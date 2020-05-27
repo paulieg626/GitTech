@@ -1,4 +1,5 @@
-displayName: "Mod mames"
+displayName: "[red]Название"
+description: "[blue]Описание"
 name: "id-mod"
 author: "paulieg626"
-version: "1.0"
+version: "[orange]Версия"
