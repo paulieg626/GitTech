@@ -3,4 +3,4 @@ name:"gittech"
 description:"Описание"
 author:"[blue]paulieg626"
 version:"0.1 beta"
-dependencies: [ ic2 ]
+dependencies: [ gittech ]
