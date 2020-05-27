@@ -1,0 +1,6 @@
+type: OreBlock
+name: serebro
+itemDrop: serebro
+variants: 2
+playerUnmineable: true
+oreDefault: true

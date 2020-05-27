@@ -1,0 +1,7 @@
+type:material
+name: "Бронза"
+description: "Металл"
+color: "#FA8D00"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0

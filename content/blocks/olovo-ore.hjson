@@ -1,0 +1,6 @@
+type: OreBlock
+name: olovo
+itemDrop: olovo
+variants: 2
+playerUnmineable: true
+oreDefault: true

@@ -1,5 +1,6 @@
-displayName: "[red]Название"
-description: "[blue]Описание"
-name: "id-mod"
-author: "paulieg626"
-version: "[orange]Версия"
+displayName:"IC2"
+name:"ic2"
+description:"Описание"
+author:"[blue]paulieg626"
+version:"0.1 beta"
+dependencies: [ ic2 ]
