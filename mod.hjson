@@ -1,6 +1,6 @@
 displayName:"GitTech"
 name:"gittech"
-description:"Описание"
+description:"Техно мод\nДобавляет новые предметы, заводы, стены\nМод в активной разработке"
 author:"[blue]paulieg626"
-version:"0.1 beta"
+version:"0.2 beta"
 dependencies: [ gittech ]

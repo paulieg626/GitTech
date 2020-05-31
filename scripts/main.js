@@ -1,3 +1,3 @@
-require("drob");
-require("prosev");
+require("fb-drob");
+require("fb-prosev");
 require("fb-bronze");
