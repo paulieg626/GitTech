@@ -7,9 +7,13 @@ Adds new items, factories, walls
 
 Mode in active development
 
+Group in VK https://vk.com/gittech
+
 # Ru
 Техно мод
 
 Добавляет новые предметы, заводы, стены
 
 Мод в активной разработке
+
+Группа в ВК https://vk.com/gittech
