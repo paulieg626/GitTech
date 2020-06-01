@@ -1,6 +1,6 @@
 displayName:"GitTech"
 name:"gittech"
-description:"[blue]EN:\n...\n[blue]RU:\n[#990000]Техно мод\nДобавляет новые предметы, заводы, стены\nМод в активной разработке"
+description:"[blue]EN:\n[#990000]Techno mod\nAdds new items, factories, walls\nMode in active development\n[blue]RU:\n[#990000]Техно мод\nДобавляет новые предметы, заводы, стены\nМод в активной разработке"
 author:"[blue]paulieg626"
 version:"0.2 beta"
 dependencies: [ ]
