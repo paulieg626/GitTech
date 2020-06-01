@@ -1,5 +1,5 @@
 const multiLib=require("wrapper");
-const fb_sifting = multiLib.extend(GenericCrafter,GenericCrafter.GenericCrafterEntity,"fb_sifting",{},{
+const fb_sifting = multiLib.extend(GenericCrafter,GenericCrafter.GenericCrafterEntity,"fb-sifting",{},{
   _output:[
 [[["scrap",1]],null,null]
 ],
@@ -23,5 +23,5 @@ fb_sifting.liquidCapacity= 20;
 fb_sifting.size= 2;
 fb_sifting.health= 100;
 fb_sifting.craftEffect= Fx.pulverizeMedium;
-fb-sifting.updateEffect=Fx.none;
-fb-sifting.requirements(Category.crafting,ItemStack.with(Items.copper,50));
+fb_sifting.updateEffect=Fx.none;
+fb_sifting.requirements(Category.crafting,ItemStack.with(Items.copper,50));

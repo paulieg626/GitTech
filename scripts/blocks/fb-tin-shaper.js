@@ -1,11 +1,7 @@
 const multiLib=require("wrapper");
 const fb_tin_shaper = multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEntity,"fb-tin-shaper",{},{
-  _output:[
-[[["gittech-tin",1]],null,null]
-],
-  _input:[
-[null,[["gittech-tin-liquid",8]],3]
-],
+  _output:[[[["gittech-tin",1]],null,null]],
+  _input:[[null,[["gittech-tin-liquid",8]],3]],
   craftTimes:[45],
   output:[],
   input:[],
