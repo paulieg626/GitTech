@@ -1,5 +1,5 @@
 const multiLib=require("wrapper");
-const drob=multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEntity,"drob",{},{
+const drob=multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEntity,"fb-drob",{},{
   _output:[
 [[["scrap",1]],null,null],
 [[["scrap",2]],null,null],
@@ -15,10 +15,10 @@ const drob=multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEntity,"d
 [[["lead",1]],null,2],
 [[["titanium",1]],null,2],
 [[["metaglass",1]],null,3],
-[[["ic2-iron",1]],null,2],
-[[["ic2-olovo",1]],null,2],
-[[["ic2-serebro",1]],null,2],
-[[["ic2-bronze",1]],null,2]
+[[["gittech-iron",1]],null,2],
+[[["gittech-olovo",1]],null,2],
+[[["gittech-serebro",1]],null,2],
+[[["gittech-bronze",1]],null,2]
 ],
   craftTimes:[45,45,45,45,45,45,45,45],
   output:[],

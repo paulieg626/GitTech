@@ -1,10 +1,10 @@
 const multiLib=require("wrapper");
 const fb_bronze=multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEntity,"fb-bronze",{},{
   _output:[
-[[["ic2-bronze",4]],null,null]
+[[["gittech-bronze",4]],null,null]
 ],
   _input:[
-[[["copper",1],["ic2-olovo",3]],null,3]
+[[["copper",1],["gittech-olovo",3]],null,3]
 ],
   craftTimes:[45],
   output:[],

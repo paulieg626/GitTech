@@ -1,5 +1,5 @@
 const multiLib=require("wrapper");
-const drob=multiLib.extend(GenericCrafter,GenericCrafter.GenericCrafterEntity,"prosev",{},{
+const drob=multiLib.extend(GenericCrafter,GenericCrafter.GenericCrafterEntity,"fb-prosev",{},{
   _output:[
 [[["scrap",1]],null,null]
 ],
