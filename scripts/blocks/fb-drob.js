@@ -17,7 +17,7 @@ const drob=multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEntity,"f
 [[["metaglass",1]],null,3],
 [[["gittech-iron",1]],null,2],
 [[["gittech-olovo",1]],null,2],
-[[["gittech-serebro",1]],null,2],
+[[["gittech-silver",1]],null,2],
 [[["gittech-bronze",1]],null,2]
 ],
   craftTimes:[45,45,45,45,45,45,45,45],
