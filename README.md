@@ -1,9 +1,15 @@
 # GitTech
 ![](https://raw.githubusercontent.com/paulieg626/GitTech/master/icon.png)
 # En
+Techno mod
+
+Adds new items, factories, walls
+
+Mode in active development
+
 # Ru
-ТехноМод
+Техно мод
 
-Добавляет стены, заводы, предметы
+Добавляет новые предметы, заводы, стены
 
-(В активной разработке)
+Мод в активной разработке
