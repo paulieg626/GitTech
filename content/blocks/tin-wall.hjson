@@ -1,9 +1,9 @@
-name:"Большая оловяная стена"
+name:"Оловяная стена"
 description:"Дешёвый защитный влок.\nПолезен для защиты ядра и турелей в первые несколько волн."
 type:Wall
-health:1360
-size:2
+health:340
+size:1
 requirements:[
-olovo/24
+tin/6
 ]
 category:defense

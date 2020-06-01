@@ -1,6 +1,6 @@
 type: OreBlock
-name: olovo
-itemDrop: olovo
+name: tin
+itemDrop: tin
 variants: 2
 playerUnmineable: true
 oreDefault: true
