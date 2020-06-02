@@ -1,0 +1,7 @@
+type:material
+name: "Бокс"
+description: "Бокс с сюрпризом"
+color: "#BECDCB"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0
