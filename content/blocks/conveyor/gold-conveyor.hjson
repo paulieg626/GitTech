@@ -1,6 +1,7 @@
 type: "Conveyor"
 name: "Золотой конвеер"
-description: "Крч он крепкий и быстрый."
+description: ""
+health:45
 requirements:[
 gold/3
 ]

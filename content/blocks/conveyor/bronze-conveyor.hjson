@@ -1,6 +1,7 @@
 type: "Conveyor"
 name: "Бронзовый конвеер"
-description: "Крч он крепкий и быстрый."
+description: ""
+health:45
 requirements:[
 bronze/3
 ]

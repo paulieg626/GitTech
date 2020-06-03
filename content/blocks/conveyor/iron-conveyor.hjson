@@ -1,6 +1,7 @@
 type: "Conveyor"
 name: "Железный конвеер"
-description: "Крч он крепкий и быстрый."
+description: ""
+health:45
 requirements:[
 iron/3
 ]
