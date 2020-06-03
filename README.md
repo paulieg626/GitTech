@@ -17,3 +17,13 @@ Group in VK https://vk.com/gittech
 Мод в активной разработке
 
 Группа в ВК https://vk.com/gittech
+
+# Resurse
+
+###### item: 7
+###### wall: 10
+###### drill: 5
+###### conveyor: 5
+###### router: 5
+###### distributor: 5
+###### ore: 4
