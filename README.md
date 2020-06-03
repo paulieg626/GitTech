@@ -20,7 +20,7 @@ Group in VK https://vk.com/gittech
 
 # Resurse
 
-###### liquid: 2
+###### liquid: 2 (Soon.... +5)
 ###### item: 7
 ###### wall: 10
 ###### drill: 5
