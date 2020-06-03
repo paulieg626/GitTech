@@ -1,0 +1,9 @@
+type: "Conveyor"
+name: "Бронзовый конвеер"
+description: "Крч он крепкий и быстрый."
+requirements:[
+bronze/3
+]
+category: "distribution"
+speed: 0.11
+research: "titanium-conveyor"

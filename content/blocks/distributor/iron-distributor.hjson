@@ -1,0 +1,11 @@
+localizedName: "Железный маршутизатор"
+type: Router
+description: 'Расширенный маршутизатор.\nРазделяет предметы до 7 других направлений в равной степени.'
+size: 2
+health: 160
+buildCostMultiplier: 2
+category: distribution
+research: router
+requirements: [
+iron/12
+]

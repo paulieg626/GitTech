@@ -1,0 +1,6 @@
+{
+"name": "Эмберитовая руда",
+"type": "OreBlock",
+"itemDrop": "Emberite",
+"oreDefault": true
+}

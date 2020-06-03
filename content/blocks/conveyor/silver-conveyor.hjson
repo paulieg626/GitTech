@@ -1,0 +1,9 @@
+type: "Conveyor"
+name: "Серебреная конвеер"
+description: "Крч он крепкий и быстрый."
+requirements:[
+silver/3
+]
+category: "distribution"
+speed: 0.11
+research: "titanium-conveyor"
