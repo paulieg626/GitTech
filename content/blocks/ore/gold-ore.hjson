@@ -2,5 +2,4 @@ type: OreBlock
 name: gold
 itemDrop: gold
 variants: 2
-playerUnmineable: true
 oreDefault: true

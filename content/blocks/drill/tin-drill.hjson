@@ -3,7 +3,7 @@ description:"Дешёвый бур.\nПри размещении на соотв
 type:"Drill"
 size:2
 health:160
-tier:2
+tier:3
 drawMineItem:true
 drillTime:600
 itemCapacity:10

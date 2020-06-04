@@ -1,6 +1,5 @@
 type: OreBlock
 name: tin
 itemDrop: tin
-variants: 2
-playerUnmineable: true
+variants: 3
 oreDefault: true

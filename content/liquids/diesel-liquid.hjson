@@ -1,0 +1,8 @@
+name:"Дизельное топливо"
+description:""
+temperature:0.7
+flammability: 1.2
+heatCapacity:0.5
+viscosity:0.7
+explosiveness:1.2
+color:"#E0E600"

@@ -1,0 +1,8 @@
+name:"Расплавленное железо"
+description:""
+temperature:0.5
+flammability: 4
+heatCapacity:0
+viscosity:0.1
+explosiveness:0
+color:"#919997"

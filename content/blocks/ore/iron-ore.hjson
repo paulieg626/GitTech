@@ -1,6 +1,5 @@
 type: OreBlock
 name: iron
 itemDrop: iron
-variants: 2
-playerUnmineable: true
+variants: 4
 oreDefault: true
