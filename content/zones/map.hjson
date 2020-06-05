@@ -1,18 +1,15 @@
-"name": "Scaled forest",
-	"description": "A perfectly untouched forest, on a planet full of moss and deserts. Examine detected misterious resources, and fight the outpost from the unknown group, what does not appear like what we usually fight.",
-	"loadout": "basicFoundation",
-    launchCost: [
-    	copper/100
-    ],
-    "configureObjective": {
-        "type": "launched",
-        "zone": "map"
-    },
-    "requirements": [
-    	{
-    		"type": "ZoneWave",
-    		"zone": "groundZero", 
-    		"wave": 10
-    	}
-    ],
-    "resources": ["copper", "lead", "coal", "sand", "gold"]
+name: "Карта 1"
+description: "Разработка..."
+loadout: "basicFoundation"
+launchCost: [copper/10000000000]
+configureObjective: {
+"type": "launched",
+"zone": "map"
+}
+requirements: [
+{
+"type": "ZoneWave"
+"zone": "groundZero"
+"wave": 10
+}]
+resources: ["copper", "lead", "coal", "sand", "gold"]
