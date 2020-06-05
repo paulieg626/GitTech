@@ -1,5 +1,4 @@
 type: OreBlock
 name: silver
 itemDrop: silver
-variants: 4
 oreDefault: true

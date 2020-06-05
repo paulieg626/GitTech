@@ -1,0 +1,25 @@
+type: "GenericSmelter"
+name: "Плавильня олова"
+description: "Плавит ххх в разплавленный оловянный металл"
+health: 60
+itemCapacity: 5
+liquidCapacity: 60
+outputLiquid:tin-liquid/4
+size: 2
+hasPower: true
+hasItems: true
+hasLiquids: true
+craftTime: 60,
+updateEffect: "none"
+consumes:{
+power:0.5
+items:{items:[
+
+]}}
+requirements:[
+copper/30
+lead/25
+]
+category: "crafting"
+idleSound: "respawning"
+idleSoundVolume: 0.5

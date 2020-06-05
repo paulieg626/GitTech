@@ -2,6 +2,7 @@ name: Железный мостовой конвейер
 description: Улучшенная версия мостового конвейера. 
 type: ItemBridge
 range: 9
+health:100
 transportTime: 0.5
 itemCapacity: 20
 hasPower: false

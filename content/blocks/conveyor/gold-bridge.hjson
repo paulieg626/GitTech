@@ -1,9 +1,10 @@
 name: Золотой мостовой конвейер 
 description: Улучшенная версия мостового конвейера. 
 type: ItemBridge
-range: 9
+range: 5
+health:60
 transportTime: 0.5
-itemCapacity: 20
+itemCapacity: 12
 hasPower: false
 requirements: [
   gold/15

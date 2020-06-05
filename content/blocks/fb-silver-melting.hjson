@@ -1,0 +1,25 @@
+type: "GenericSmelter"
+name: "Плавильня серебра"
+description: "Плавит ххх в разплавленный серебренный металл"
+health: 60
+itemCapacity: 5
+liquidCapacity: 60
+outputLiquid:silver-liquid/4
+size: 2
+hasPower: true
+hasItems: true
+hasLiquids: true
+craftTime: 60,
+updateEffect: "none"
+consumes:{
+power:0.5
+items:{items:[
+
+]}}
+requirements:[
+copper/30
+lead/25
+]
+category: "crafting"
+idleSound: "respawning"
+idleSoundVolume: 0.5

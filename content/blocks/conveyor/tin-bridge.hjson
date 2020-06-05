@@ -1,7 +1,8 @@
 name: Оловянный мостовой конвейер 
 description: Улучшенная версия мостового конвейера. 
 type: ItemBridge
-range: 9
+range: 7
+health:80
 transportTime: 0.5
 itemCapacity: 20
 hasPower: false

@@ -5,7 +5,7 @@ size: 2
 health: 160
 buildCostMultiplier: 2
 category: distribution
-research: router
+research: iron-router
 requirements: [
 iron/12
 ]

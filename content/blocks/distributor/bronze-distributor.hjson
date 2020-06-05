@@ -5,7 +5,7 @@ size: 2
 health: 160
 buildCostMultiplier: 2
 category: distribution
-research: router
+research: bronze-router
 requirements: [
 bronze/12
 ]

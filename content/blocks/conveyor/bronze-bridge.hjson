@@ -1,9 +1,10 @@
 name: Бронзовый мостовой конвейер 
 description: Улучшенная версия мостового конвейера. 
 type: ItemBridge
-range: 9
+range: 8
+health:90
 transportTime: 0.5
-itemCapacity: 20
+itemCapacity: 14
 hasPower: false
 requirements: [
   bronze/15
