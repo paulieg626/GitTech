@@ -1,0 +1,12 @@
+name: "Оловяное хранилище"
+description: "Улучшенная версия хранилища."
+type: Vault 
+size: 2
+health: 200
+itemCapacity: 700
+requirements: [
+ tin/100
+ titanium/25
+] 
+research: silver-container
+category: effect

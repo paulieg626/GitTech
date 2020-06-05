@@ -1,0 +1,12 @@
+name: "Золотое хранилище"
+description: "Улучшенная версия хранилища."
+type: Vault 
+size: 2
+health: 180
+itemCapacity: 500
+requirements: [
+ gold/100
+ titanium/25
+] 
+research: core-shard
+category: effect

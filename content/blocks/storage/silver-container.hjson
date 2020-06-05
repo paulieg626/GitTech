@@ -1,0 +1,12 @@
+name: "Серебреное хранилище"
+description: "Улучшенная версия хранилища."
+type: Vault 
+size: 2
+health: 190
+itemCapacity: 600
+requirements: [
+ silver/100
+ titanium/25
+] 
+research: gold-container
+category: effect

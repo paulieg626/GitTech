@@ -1,0 +1,12 @@
+name: "Железное хранилище"
+description: "Улучшенная версия хранилища."
+type: Vault 
+size: 2
+health: 220
+itemCapacity: 900
+requirements: [
+ iron/100
+ titanium/25
+] 
+research: bronze-container
+category: effect

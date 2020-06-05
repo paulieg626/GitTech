@@ -1,0 +1,12 @@
+name: "Бронзовое хранилище"
+description: "Улучшенная версия хранилища."
+type: Vault 
+size: 2
+health: 210
+itemCapacity: 800
+requirements: [
+ bronze/100
+ titanium/25
+] 
+research: tin-container
+category: effect
