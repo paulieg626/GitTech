@@ -1,10 +1,10 @@
 type: "GenericSmelter"
-name: "Плавильня олова"
-description: "Плавит ххх в разплавленный оловянный металл"
+name: "Плавильня железа"
+description: "Плавит ххх в рассплавленный железный металл"
 health: 60
 itemCapacity: 5
 liquidCapacity: 60
-outputLiquid:tin-liquid/4
+outputLiquid:iron-liquid/4
 size: 2
 hasPower: true
 hasItems: true
@@ -17,7 +17,7 @@ items:{items:[
 
 ]}}
 requirements:[
-copper/30
+iron/30
 lead/25
 ]
 category: "crafting"

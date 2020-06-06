@@ -1,7 +1,7 @@
 name: "Карта 1"
 description: "Разработка..."
-loadout: "basicFoundation"
-launchCost: [copper/10000000000]
+loadout: basicNucleus
+launchCost: [copper/100]
 configureObjective: {
 "type": "launched",
 "zone": "map"

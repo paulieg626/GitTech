@@ -1,0 +1,24 @@
+type: "GenericSmelter"
+name: "Формировщик железа"
+description: "Формирует горячее житкое железо в слитки железа"
+health: 140
+itemCapacity: 10
+liquidCapacity: 15
+outputItem: iron/1
+size: 1
+hasPower: true
+hasItems: true
+hasLiquids: true
+craftTime: 60,
+updateEffect: "none"
+consumes:{
+power:0.5
+liquid: iron-liquid/0.05
+}
+requirements:[
+bronze/30
+lead/25
+]
+category: "crafting"
+idleSound: "respawning"
+idleSoundVolume: 0.5

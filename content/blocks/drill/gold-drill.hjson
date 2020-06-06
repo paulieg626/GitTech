@@ -19,4 +19,5 @@ booster:true
 requirements:[
 gold/12
 ]
+research: mechanical-drill
 category:"production"

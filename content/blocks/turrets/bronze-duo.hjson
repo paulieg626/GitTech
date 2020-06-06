@@ -62,6 +62,7 @@ bronze: {
  }
  }
 category: turret
+research: tin-duo
 requirements: [
- copper/35
+ bronze/35
 ]

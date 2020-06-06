@@ -62,6 +62,7 @@ silver: {
  }
  }
 category: turret
+research: gold-duo
 requirements: [
- copper/35
+ silver/35
 ]

@@ -62,6 +62,7 @@ iron: {
  }
  }
 category: turret
+research: bronze-duo
 requirements: [
- copper/35
+ iron/35
 ]

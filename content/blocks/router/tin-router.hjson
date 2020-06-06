@@ -5,7 +5,7 @@ size: 1
 health: 80
 buildCostMultiplier: 2
 category: distribution
-research: router
+research: silver-router
 requirements: [
 tin/3
 ]

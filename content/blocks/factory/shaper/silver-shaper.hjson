@@ -1,0 +1,24 @@
+type: "GenericSmelter"
+name: "Формировщик серебра"
+description: "Формирует горячее житкое серебро в слитки серебра"
+health: 110
+itemCapacity: 10
+liquidCapacity: 15
+outputItem: silver/1
+size: 1
+hasPower: true
+hasItems: true
+hasLiquids: true
+craftTime: 60,
+updateEffect: "none"
+consumes:{
+power:0.5
+liquid: silver-liquid/0.05
+}
+requirements:[
+silver/30
+lead/25
+]
+category: "crafting"
+idleSound: "respawning"
+idleSoundVolume: 0.5

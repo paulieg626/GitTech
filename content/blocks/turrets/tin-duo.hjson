@@ -62,6 +62,7 @@ tin: {
  }
  }
 category: turret
+research: silver-duo
 requirements: [
- copper/35
+ tin/35
 ]

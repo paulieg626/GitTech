@@ -19,4 +19,5 @@ booster:true
 requirements:[
 bronze/12
 ]
+research: tin-drill
 category:"production"

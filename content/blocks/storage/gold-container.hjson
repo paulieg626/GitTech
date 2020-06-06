@@ -8,5 +8,5 @@ requirements: [
  gold/100
  titanium/25
 ] 
-research: core-shard
+research: container
 category: effect

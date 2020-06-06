@@ -19,4 +19,5 @@ booster:true
 requirements:[
 tin/12
 ]
+research: silver-drill
 category:"production"

@@ -1,10 +1,10 @@
 type: "GenericSmelter"
-name: "Плавильня бронзы"
-description: "Плавит медь,олово в расправленный бронзовый метал"
+name: "Плавильня золота"
+description: "Плавит ххх в рассплавленной золотой метал"
 health: 60
 itemCapacity: 5
 liquidCapacity: 60
-outputLiquid:bronze-liquid/4
+outputLiquid:iron-liquid/4
 size: 2
 hasPower: true
 hasItems: true
@@ -14,11 +14,10 @@ updateEffect: "none"
 consumes:{
 power:0.5
 items:{items:[
-copper/3
-tin/1
+
 ]}}
 requirements:[
-copper/30
+gold/30
 lead/25
 ]
 category: "crafting"

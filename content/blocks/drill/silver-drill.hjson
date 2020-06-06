@@ -19,4 +19,5 @@ booster:true
 requirements:[
 silver/12
 ]
+research: gold-drill
 category:"production"
