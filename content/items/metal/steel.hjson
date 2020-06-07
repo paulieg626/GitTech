@@ -1,0 +1,7 @@
+type:material
+name: "Сталь"
+description: "Металл"
+color: "#525252"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0

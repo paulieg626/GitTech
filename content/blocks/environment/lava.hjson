@@ -1,0 +1,6 @@
+type: floor
+name: "Лава"
+variants: 1
+isLiquid: true
+liquidDrop: lava-liquid
+oreDefault: true

@@ -1,0 +1,68 @@
+type: doubleTurret
+name: "Стальная двойная турель"
+description: ""
+targetAir: true
+targetGround: true
+health: 310
+size: 1
+reload: 30
+inaccuracy: 2
+range: 100
+ammo: {
+steel: {
+ speed: 2
+ lifetime: 60
+ damage: 22
+ ammoMultiplier: 2
+ reloadMultiplier: 1
+ bulletWidth: 9
+ bulletHeight: 12
+ }
+ copper: {
+ speed: 2
+ lifetime: 60
+ damage: 9
+ ammoMultiplier: 2
+ reloadMultiplier: 1
+ bulletWidth: 9
+ bulletHeight: 12
+ }
+ graphite: {
+ speed: 2
+ lifetime: 60
+ damage: 18
+ ammoMultiplier: 4
+ reloadMultiplier: 0.6
+ bulletWidth: 9
+ bulletHeight: 12
+ }
+ pyratite: {
+ speed: 2
+ lifetime: 60
+ damage: 11
+ ammoMultiplier: 2
+ incendSpread: 2
+ incendAmount: 1
+ reloadMultiplier: 1
+ bulletWidth: 9
+ bulletHeight: 12
+ frontColor: #FFB464
+ backColor: #FFDA73
+ }
+ silicon: {
+ speed: 2
+ lifetime: 60
+ damage: 9
+ ammoMultiplier: 5
+ homingPower: 1
+ homingRange: 20
+ reloadMultiplier: 1.4
+ bulletWidth: 9
+ bulletHeight: 12
+ }
+ }
+category: turret
+research: iron-duo
+requirements: [
+ steel/35
+]

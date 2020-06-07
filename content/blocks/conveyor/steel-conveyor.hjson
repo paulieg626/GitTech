@@ -1,0 +1,10 @@
+type: "Conveyor"
+name: "Стальной конвеер"
+description: ""
+health:45
+requirements:[
+steel/1
+]
+category: "distribution"
+speed: 0.11
+research: "titanium-conveyor"

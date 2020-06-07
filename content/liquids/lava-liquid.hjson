@@ -1,0 +1,9 @@
+name:"Лава"
+description:"Очень горячая магма используется для работы очень мощных заводов."
+temperature:3
+flammability: 3
+heatCapacity:0.6
+viscosity:0.4
+explosiveness:0.05
+effect:"boss"
+color:"#B82D09"

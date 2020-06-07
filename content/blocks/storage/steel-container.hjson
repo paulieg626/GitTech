@@ -1,0 +1,12 @@
+name: "Стальное хранилище"
+description: "Улучшенная версия хранилища."
+type: Vault 
+size: 2
+health: 230
+itemCapacity: 1000
+requirements: [
+ steel/100
+ titanium/25
+] 
+research: iron-container
+category: effect

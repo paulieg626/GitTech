@@ -1,8 +1,7 @@
 type:material
-name: "Железо"
+name: "Сигналовый сплав"
 description: "Металл"
-color: "#F0F0F0"
+color: "#8C2700"
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0
-hardness: 4

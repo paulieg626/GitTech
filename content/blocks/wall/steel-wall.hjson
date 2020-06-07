@@ -1,0 +1,10 @@
+name:"Стальная стена"
+description:"Дешёвый защитный влок.\nПолезен для защиты ядра и турелей в первые несколько волн."
+type:Wall
+health:410
+size:1
+requirements:[
+iron/6
+]
+research: iron-wall-big
+category:defense
