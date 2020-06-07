@@ -32,3 +32,4 @@ Group in VK https://vk.com/gittech
 ###### ore: 4
 ###### turrets: 5
 ###### storage: 5
+###### map 0
