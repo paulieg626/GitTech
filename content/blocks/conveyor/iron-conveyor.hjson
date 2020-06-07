@@ -3,7 +3,7 @@ name: "Железный конвеер"
 description: ""
 health:45
 requirements:[
-iron/3
+iron/1
 ]
 category: "distribution"
 speed: 0.11

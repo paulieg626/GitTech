@@ -3,7 +3,7 @@ name: "Золотой конвеер"
 description: ""
 health:45
 requirements:[
-gold/3
+gold/1
 ]
 category: "distribution"
 speed: 0.11

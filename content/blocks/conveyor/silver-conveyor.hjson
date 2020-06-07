@@ -3,7 +3,7 @@ name: "Серебреная конвеер"
 description: ""
 health:45
 requirements:[
-silver/3
+silver/1
 ]
 category: "distribution"
 speed: 0.11

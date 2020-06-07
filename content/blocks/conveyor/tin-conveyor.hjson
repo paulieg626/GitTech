@@ -3,7 +3,7 @@ name: "Оловянный конвеер"
 description: ""
 health:45
 requirements:[
-tin/3
+tin/1
 ]
 category: "distribution"
 speed: 0.11

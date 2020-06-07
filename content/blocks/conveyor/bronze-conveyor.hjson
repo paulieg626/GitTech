@@ -3,7 +3,7 @@ name: "Бронзовый конвеер"
 description: ""
 health:45
 requirements:[
-bronze/3
+bronze/1
 ]
 category: "distribution"
 speed: 0.11
