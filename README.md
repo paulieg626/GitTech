@@ -20,11 +20,15 @@ Group in VK https://vk.com/gittech
 
 # Resurse
 
-###### liquid: 2 (Soon.... +5)
+###### factory: 8
+###### liquid: 7
 ###### item: 7
 ###### wall: 10
 ###### drill: 5
 ###### conveyor: 5
+###### bridge: 5
 ###### router: 5
 ###### distributor: 5
 ###### ore: 4
+###### turrets: 5
+###### storage: 5
