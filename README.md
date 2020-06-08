@@ -22,14 +22,14 @@ Group in VK https://vk.com/gittech
 
 ###### factory: 8
 ###### liquid: 7
-###### item: 7
+###### item: 16
 ###### wall: 10
-###### drill: 5
-###### conveyor: 5
-###### bridge: 5
-###### router: 5
-###### distributor: 5
+###### drill: 6
+###### conveyor: 6
+###### bridge: 6
+###### router: 6
+###### distributor: 6
 ###### ore: 4
-###### turrets: 5
-###### storage: 5
+###### turrets: 6
+###### storage: 6
 ###### map 0
