@@ -2,7 +2,7 @@ localizedName: "Золотой разпределитель"
 type: Router
 description: 'Расширенный маршутизатор.\nРазделяет предметы до 7 других направлений в равной степени.'
 size: 2
-health: 160
+health: 180
 buildCostMultiplier: 2
 category: distribution
 research: gold-router

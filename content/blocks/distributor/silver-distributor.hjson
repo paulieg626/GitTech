@@ -2,7 +2,7 @@ localizedName: "Серебряный разпределитель"
 type: Router
 description: 'Расширенный маршутизатор.\nРазделяет предметы до 7 других направлений в равной степени.'
 size: 2
-health: 160
+health: 190
 buildCostMultiplier: 2
 category: distribution
 research: silver-router

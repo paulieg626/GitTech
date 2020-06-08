@@ -1,0 +1,40 @@
+type: NuclearReactor
+name: Урановый реактор
+description: Реактор на уране. 
+itemCapacity: 20
+liquidCapacity: 40
+health: 360 
+size: 3
+itemDuration: 90
+baseExplosiveness: 500000
+heating: 0.01
+explosionRadius: 800000
+explosionDamage: 459300
+smokeThreshold: 0.5
+flashThreshold: 0.05
+layer: power
+buildCostMultiplier: 1
+powerProduction: 20.83333333333333
+consumes: {
+  items: {
+    items: [
+      uran/1
+    ]
+  }
+  liquid: {
+    liquid: cryofluid 
+    amount: 0.15
+  }
+}
+attribute: heat
+requirements: [
+uran/120
+titanium/120
+steel/150
+]
+category: power
+activeSound: thruster
+activeSoundVolume: 5
+idleSound: respawning
+idleSoundVolume: 5
+research: thorium-reactor
