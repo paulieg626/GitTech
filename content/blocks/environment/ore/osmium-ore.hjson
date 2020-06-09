@@ -1,0 +1,4 @@
+type: OreBlock
+name: osmium
+itemDrop: osmium-k
+oreDefault: true

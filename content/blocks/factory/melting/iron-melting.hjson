@@ -1,8 +1,8 @@
 type: "GenericSmelter"
 name: "Плавильня железа"
-description: "Плавит ххх в рассплавленный железный металл"
+description: "Плавит железные кусочки в рассплавленный железный металл"
 health: 60
-itemCapacity: 5
+itemCapacity: 10
 liquidCapacity: 60
 outputLiquid:iron-liquid/4
 size: 2
@@ -14,12 +14,13 @@ updateEffect: "none"
 consumes:{
 power:0.5
 items:{items:[
-
+iron-k/9
 ]}}
 requirements:[
-iron/30
+copper/30
 lead/25
 ]
+research: graphite-press
 category: "crafting"
 idleSound: "respawning"
 idleSoundVolume: 0.5

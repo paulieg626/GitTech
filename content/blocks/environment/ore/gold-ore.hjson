@@ -1,4 +1,4 @@
 type: OreBlock
 name: gold
-itemDrop: gold
+itemDrop: gold-k
 oreDefault: true

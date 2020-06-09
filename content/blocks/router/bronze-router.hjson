@@ -5,7 +5,7 @@ size: 1
 health: 90
 buildCostMultiplier: 2
 category: distribution
-research: tin-router
+research: router
 requirements: [
 bronze/3
 ]

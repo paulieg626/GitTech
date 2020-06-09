@@ -1,4 +1,4 @@
 type: OreBlock
 name: silver
-itemDrop: silver
+itemDrop: silver-k
 oreDefault: true

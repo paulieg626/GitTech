@@ -5,7 +5,7 @@ size: 1
 health: 70
 buildCostMultiplier: 2
 category: distribution
-research: gold-router
+research: router
 requirements: [
 silver/3
 ]

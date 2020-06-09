@@ -1,8 +1,8 @@
 type: "GenericSmelter"
 name: "Плавильня серебра"
-description: "Плавит ххх в рассплавленный серебренный металл"
+description: "Плавит кусочки серебра в рассплавленный серебренный металл"
 health: 60
-itemCapacity: 5
+itemCapacity: 10
 liquidCapacity: 60
 outputLiquid:silver-liquid/4
 size: 2
@@ -14,12 +14,13 @@ updateEffect: "none"
 consumes:{
 power:0.5
 items:{items:[
-
+silver-k/9
 ]}}
 requirements:[
-silver/30
+copper/30
 lead/25
 ]
+research: graphite-press
 category: "crafting"
 idleSound: "respawning"
 idleSoundVolume: 0.5

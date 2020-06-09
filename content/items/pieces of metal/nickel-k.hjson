@@ -1,0 +1,8 @@
+type:resource
+name: "Кусочик никеля"
+description: "Кусочик металла"
+color: "#A9A78B"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0
+hardness: 3

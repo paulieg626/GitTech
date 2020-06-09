@@ -1,0 +1,8 @@
+type:resource
+name: "Кусочик осмия"
+description: "Кусочик металла"
+color: "#1A59A7"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0
+hardness: 3

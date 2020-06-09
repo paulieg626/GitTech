@@ -1,0 +1,4 @@
+type: OreBlock
+name: nickel
+itemDrop: nickel-k
+oreDefault: true

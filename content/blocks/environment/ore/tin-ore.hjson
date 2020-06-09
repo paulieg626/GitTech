@@ -1,4 +1,4 @@
 type: OreBlock
 name: tin
-itemDrop: tin
+itemDrop: tin-k
 oreDefault: true

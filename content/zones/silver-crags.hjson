@@ -1,0 +1,23 @@
+name: Серебреный кратер
+description: Здесь можно добыть серебро или найти лаву!
+loadout: basicFoundation
+startingItems: [
+  copper/200
+  lead/300
+]
+conditionWave: 10
+launchPeriod: 10
+requirements: [
+  {
+    type: ZoneWave
+    zone: groundZero
+    wave: 30
+  }
+]
+resources: [
+  copper
+  silver
+  lead
+  coal
+  sand
+]

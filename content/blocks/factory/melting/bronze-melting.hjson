@@ -2,7 +2,7 @@ type: "GenericSmelter"
 name: "Плавильня бронзы"
 description: "Плавит медь,олово в рассплавленный бронзовый метал"
 health: 60
-itemCapacity: 5
+itemCapacity: 10
 liquidCapacity: 60
 outputLiquid:bronze-liquid/4
 size: 2
@@ -18,9 +18,10 @@ copper/3
 tin/1
 ]}}
 requirements:[
-bronze/30
+copper/30
 lead/25
 ]
+research: graphite-press
 category: "crafting"
 idleSound: "respawning"
 idleSoundVolume: 0.5

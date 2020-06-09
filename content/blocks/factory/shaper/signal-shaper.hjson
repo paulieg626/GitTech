@@ -1,7 +1,7 @@
 type: "GenericSmelter"
 name: "Формировщик сигнала"
 description: "Формирует горячий житкий сигнал в слитки сигнала"
-health: 115
+health: 35
 itemCapacity: 10
 liquidCapacity: 15
 outputItem: signal/2
@@ -16,9 +16,10 @@ power:0.5
 liquid: signal-liquid/0.134
 }
 requirements:[
-signal/30
-lead/25
+copper/15
+lead/5
 ]
+research: signal-melting
 category: "crafting"
 idleSound: "respawning"
 idleSoundVolume: 0.5

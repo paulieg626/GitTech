@@ -1,0 +1,4 @@
+type: OreBlock
+name: platinum
+itemDrop: platinum-k
+oreDefault: true

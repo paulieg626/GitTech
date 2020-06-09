@@ -1,4 +1,4 @@
 type: OreBlock
 name: iron
-itemDrop: iron
+itemDrop: iron-k
 oreDefault: true
