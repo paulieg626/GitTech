@@ -4,7 +4,7 @@ description: "Формирует горячее житкое серебро в �
 health: 110
 itemCapacity: 10
 liquidCapacity: 15
-outputItem: silver/1
+outputItem: silver/2
 size: 1
 hasPower: true
 hasItems: true
@@ -13,7 +13,7 @@ craftTime: 60,
 updateEffect: "none"
 consumes:{
 power:0.5
-liquid: silver-liquid/0.05
+liquid: silver-liquid/0.134
 }
 requirements:[
 silver/30

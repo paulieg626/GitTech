@@ -4,7 +4,7 @@ description: "Формирует горячее житкое железо в с�
 health: 140
 itemCapacity: 10
 liquidCapacity: 15
-outputItem: iron/1
+outputItem: iron/2
 size: 1
 hasPower: true
 hasItems: true
@@ -13,10 +13,10 @@ craftTime: 60,
 updateEffect: "none"
 consumes:{
 power:0.5
-liquid: iron-liquid/0.05
+liquid: iron-liquid/0.134
 }
 requirements:[
-bronze/30
+iron/30
 lead/25
 ]
 category: "crafting"

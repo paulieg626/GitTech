@@ -1,10 +1,10 @@
 type: "GenericSmelter"
-name: "Формировщик олова"
-description: "Формирует горячее житкое олово в слитки олова"
-health: 120
+name: "Формировщик сигнала"
+description: "Формирует горячий житкий сигнал в слитки сигнала"
+health: 115
 itemCapacity: 10
 liquidCapacity: 15
-outputItem: tin/2
+outputItem: signal/2
 size: 1
 hasPower: true
 hasItems: true
@@ -13,10 +13,10 @@ craftTime: 60,
 updateEffect: "none"
 consumes:{
 power:0.5
-liquid: tin-liquid/0.134
+liquid: signal-liquid/0.134
 }
 requirements:[
-tin/30
+signal/30
 lead/25
 ]
 category: "crafting"

@@ -20,8 +20,8 @@ Group in VK https://vk.com/gittech
 
 # Resurse
 
-###### factory: 8
-###### liquid: 7
+###### factory: 14
+###### liquid: 13
 ###### item: 16
 ###### wall: 10
 ###### drill: 6
