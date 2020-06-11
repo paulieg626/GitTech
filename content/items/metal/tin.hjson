@@ -1,7 +1,7 @@
 type:material
-name: "Олово"
+name: Tin
 description: "Металл"
-color: "#BAB49C"
+color: BAB49C
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0

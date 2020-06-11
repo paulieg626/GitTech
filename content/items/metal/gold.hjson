@@ -1,7 +1,7 @@
 type:material
-name: "Золото"
+name: Gold
 description: "Металл"
-color: "#E6DE28"
+color: E6DE28
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0

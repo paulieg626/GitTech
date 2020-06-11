@@ -1,8 +1,8 @@
-name:"Расплавленный осмий"
+name: Molten osmium
 description:""
 temperature:0.5
 flammability: 4
 heatCapacity:0
 viscosity:0.1
 explosiveness:0
-color:"#1A59A7"
+color: 1A59A7

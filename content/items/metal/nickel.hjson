@@ -1,7 +1,7 @@
 type:material
-name: "Никель"
+name: Nickel
 description: "Металл"
-color: "#A9A78B"
+color: A9A78B
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0

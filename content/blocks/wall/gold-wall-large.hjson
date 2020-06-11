@@ -1,10 +1,10 @@
-name:"Большая бронзовая стена"
+name: Large gold wall
 description:"Дешёвый защитный влок.\nПолезен для защиты ядра и турелей в первые несколько волн."
 type:Wall
-health:1560
+health:1440
 size:2
 requirements:[
-bronze/24
+gold/24
 ]
-research: bronze-wall
+research: gold-wall
 category:defense

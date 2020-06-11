@@ -1,7 +1,7 @@
 type:material
-name: "Инвар"
+name: Invar
 description: "Металл"
-color: "#A6A89A"
+color: A6A89A
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0

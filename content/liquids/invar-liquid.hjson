@@ -1,8 +1,8 @@
-name:"Расплавленный инвар"
+name: Molten invar
 description:""
 temperature:0.5
 flammability: 4
 heatCapacity:0
 viscosity:0.1
 explosiveness:0
-color:"#A6A89A"
+color: A6A89A

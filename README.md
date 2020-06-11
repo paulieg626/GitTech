@@ -17,19 +17,3 @@ Group in VK https://vk.com/gittech
 Мод в активной разработке
 
 Группа в ВК https://vk.com/gittech
-
-# Resurse
-
-###### factory: 14
-###### liquid: 13
-###### item: 16
-###### wall: 10
-###### drill: 6
-###### conveyor: 6
-###### bridge: 6
-###### router: 6
-###### distributor: 6
-###### ore: 4
-###### turrets: 6
-###### storage: 6
-###### map 0

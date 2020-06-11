@@ -1,5 +1,5 @@
 type: doubleTurret
-name: "Железная двойная турель"
+name: Iron duo
 description: ""
 targetAir: true
 targetGround: true

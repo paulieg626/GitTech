@@ -1,8 +1,8 @@
-name:"Расплавленный никель"
+name: Molten nickel
 description:""
 temperature:0.5
 flammability: 4
 heatCapacity:0
 viscosity:0.1
 explosiveness:0
-color:"#A9A78B"
+color: A9A78B

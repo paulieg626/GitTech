@@ -1,7 +1,7 @@
 type:material
-name: "Иридий"
+name: Iridium
 description: "Металл"
-color: "#C0C0C0"
+color: C0C0C0
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0

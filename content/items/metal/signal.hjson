@@ -1,7 +1,7 @@
 type:material
-name: "Сигналовый сплав"
+name: Signalum
 description: "Металл"
-color: "#8C2700"
+color: 8C2700
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0

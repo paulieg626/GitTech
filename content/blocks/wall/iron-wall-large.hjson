@@ -1,10 +1,10 @@
-name:"Большая серебреная стена"
+name: Large iron wall
 description:"Дешёвый защитный влок.\nПолезен для защиты ядра и турелей в первые несколько волн."
 type:Wall
-health:1480
+health:1600
 size:2
 requirements:[
-silver/24
+iron/24
 ]
-research: silver-wall
+research: iron-wall
 category:defense

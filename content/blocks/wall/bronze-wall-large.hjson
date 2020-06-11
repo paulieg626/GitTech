@@ -1,10 +1,10 @@
-name:"Стальная стена"
+name: Large bronze wall
 description:"Дешёвый защитный влок.\nПолезен для защиты ядра и турелей в первые несколько волн."
 type:Wall
-health:1640
+health:1560
 size:2
 requirements:[
-iron/24
+bronze/24
 ]
-research: steel-wall
+research: bronze-wall
 category:defense

@@ -1,7 +1,7 @@
 type:material
-name: "Осмий"
+name: Osmium
 description: "Металл"
-color: "#1A59A7"
+color: 1A59A7
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0
