@@ -1,6 +1,5 @@
 type:material
 name: Iron
-description: "Металл"
 color: 7E7E7E
 radioactivity: 0.0
 explosiveness:0.0

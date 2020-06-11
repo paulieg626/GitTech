@@ -1,7 +1,7 @@
 type:resource
-name: "Кусочик никеля"
+name: Piece of nickel
 description: "Кусочик металла"
-color: "#A9A78B"
+color: A9A78B
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0

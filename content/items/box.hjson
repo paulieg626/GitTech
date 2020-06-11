@@ -1,7 +1,6 @@
 type:resource
-name: "Бокс из ульти сырья"
-description: "Бокс с сюрпризом"
-color: "#0E0EC2"
+name: Box
+color: 0E0EC2
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0

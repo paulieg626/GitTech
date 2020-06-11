@@ -1,6 +1,5 @@
 type:material
 name: Bronze
-description: "Металл"
 color: E67218
 radioactivity: 0.0
 explosiveness:0.0

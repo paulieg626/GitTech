@@ -1,4 +1,4 @@
-localizedName: "Золотой разпределитель"
+name: Gold dispenser
 type: Router
 description: 'Расширенный маршутизатор.\nРазделяет предметы до 7 других направлений в равной степени.'
 size: 2

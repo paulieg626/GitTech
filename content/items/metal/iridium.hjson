@@ -1,6 +1,5 @@
 type:material
 name: Iridium
-description: "Металл"
 color: C0C0C0
 radioactivity: 0.0
 explosiveness:0.0

@@ -1,7 +1,7 @@
 type:resource
-name: "Кусочик олова"
+name: Piece of tin
 description: "Кусочик металла"
-color: "#BAB49C"
+color: BAB49C
 radioactivity: 0.0
 explosiveness:0.0
 flammability:0.0

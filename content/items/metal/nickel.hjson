@@ -1,6 +1,5 @@
 type:material
 name: Nickel
-description: "Металл"
 color: A9A78B
 radioactivity: 0.0
 explosiveness:0.0

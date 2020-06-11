@@ -1,6 +1,5 @@
 type:material
 name: Signalum
-description: "Металл"
 color: 8C2700
 radioactivity: 0.0
 explosiveness:0.0

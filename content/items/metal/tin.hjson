@@ -1,6 +1,5 @@
 type:material
 name: Tin
-description: "Металл"
 color: BAB49C
 radioactivity: 0.0
 explosiveness:0.0

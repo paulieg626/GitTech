@@ -1,6 +1,5 @@
 type:resource
-name: "Ульти сырьё"
-description: "Не метал"
+name: Ulti Raw
 color: "#392A1C"
 radioactivity: 0.0
 explosiveness:0.0

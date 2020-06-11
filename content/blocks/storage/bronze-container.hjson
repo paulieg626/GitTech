@@ -1,4 +1,4 @@
-name: "Бронзовое хранилище"
+name: Bronze container
 description: "Улучшенная версия хранилища."
 type: Vault 
 size: 2

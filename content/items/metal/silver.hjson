@@ -1,6 +1,5 @@
 type:material
 name: Silver
-description: "Металл"
 color: F8F8F8
 radioactivity: 0.0
 explosiveness:0.0

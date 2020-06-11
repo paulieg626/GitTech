@@ -1,6 +1,5 @@
 type:material
 name: Electronium
-description: "Металл"
 color: ACAD5F
 radioactivity: 0.0
 explosiveness:0.0

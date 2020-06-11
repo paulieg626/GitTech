@@ -1,6 +1,5 @@
 type:material
 name: Platinum
-description: "Металл"
 color: 3C7A90
 radioactivity: 0.0
 explosiveness:0.0
