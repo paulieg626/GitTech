@@ -1,0 +1,10 @@
+name: Signal wall
+description:"Дешёвый защитный влок.\nПолезен для защиты ядра и турелей в первые несколько волн."
+type:Wall
+health:390
+size:1
+requirements:[
+signal/6
+]
+research: copper-wall-large
+category:defense
