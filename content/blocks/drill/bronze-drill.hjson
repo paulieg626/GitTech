@@ -1,13 +1,13 @@
-name: Bronze drill
-description:"Дешёвый бур.\nПри размещении на соотвествующих плитках, предметы бесконечно выводяться в медленом темпе.\nСпособен добывать только базовые ресурсы."
+name: Electronium drill
+description:"Довольно дорогая дрель. Способна добывать все ресурсы. Из-за повышенной компактности и скорости добычи ресурсов, стоит дороже."
 type:"Drill"
-size:2
-health:210
-tier:3
+size:3
+health:350
+tier:4
 drawMineItem:true
-drillTime:600
+drillTime:10
 itemCapacity:10
-rotateSpeed:2
+rotateSpeed:4
 consumes:{
 liquid:{
 liquid:"water"
@@ -17,7 +17,11 @@ booster:true
 }
 }
 requirements:[
-bronze/12
+electronium/200;
+copper/500;
+lead/200;
+thorium/100;
+bronze/20;
 ]
-research: tin-drill
+research: lazer-drill
 category:"production"
