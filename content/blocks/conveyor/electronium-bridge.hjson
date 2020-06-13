@@ -6,6 +6,9 @@ health: 120
 transportTime: 0.005
 itemCapacity: 20
 hasPower: true
+consumes: {
+  power: 1.5
+}
 requirements: [
   bronze/15
   copper/10
