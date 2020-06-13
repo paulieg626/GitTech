@@ -1,0 +1,16 @@
+name: Электрониумовый мостовой конвейер 
+description: Улучшенная версия мостового конвейера. Требует электричество, скорость выше фазового конвейера. 
+type: ItemBridge
+range: 10
+health: 120
+transportTime: 0.005
+itemCapacity: 20
+hasPower: true
+requirements: [
+  bronze/15
+  copper/10
+  thorium/10
+  electronium/25
+  phase-weave/25
+]
+category: distribution
