@@ -17,11 +17,11 @@ booster:true
 }
 }
 requirements:[
-electronium/200;
-copper/500;
-lead/200;
-thorium/100;
-bronze/20;
+electronium/200
+copper/500
+lead/200
+thorium/100
+bronze/20
 ]
-research: lazer-drill
+research: laser-drill
 category:"production"
