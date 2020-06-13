@@ -7,7 +7,8 @@ Adds new items, factories, walls
 
 Mode in active development
 
-Group in VK https://vk.com/gittech
+Group in VK - https://vk.com/gittech
+Server in Discord - https://discord.gg/PDdUkDt
 
 # Ru
 Техно мод
@@ -16,4 +17,5 @@ Group in VK https://vk.com/gittech
 
 Мод в активной разработке
 
-Группа в ВК https://vk.com/gittech
+Группа в ВК - https://vk.com/gittech
+Сервер в Discord - https://discord.gg/PDdUkDt
