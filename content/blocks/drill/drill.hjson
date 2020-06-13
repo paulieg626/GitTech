@@ -1,0 +1,27 @@
+name: Electronium drill
+description:"Довольно дорогая дрель. Способна добывать все ресурсы. Из-за повышенной компактности и скорости добычи ресурсов, стоит дороже."
+type:"Drill"
+size:3
+health:350
+tier:4
+drawMineItem:true
+drillTime:10
+itemCapacity:10
+rotateSpeed:4
+consumes:{
+liquid:{
+liquid:"water"
+amount:0.05
+optional:true
+booster:true
+}
+}
+requirements:[
+electronium/200;
+copper/500;
+lead/200;
+thorium/100;
+bronze/20;
+]
+research: lazer-drill
+category:"production"
