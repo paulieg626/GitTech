@@ -1,0 +1,21 @@
+type: GroundUnit
+name: Название
+description: Описание
+speed: 1.0
+maxVelocity: 1.0
+flying: false
+health: 3000
+range: 250
+rotatespeed: 5
+drag: 6
+mass: 5.0
+targetAir: true
+rotateWeapon: true
+weapon: {
+name: Nope
+length: 2.0
+reload: 30.0
+alternate: true
+bullet: lightning
+shootSound: spark
+}

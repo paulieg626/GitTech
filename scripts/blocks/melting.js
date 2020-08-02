@@ -1,6 +1,6 @@
 const multiLib=require("wrapper");
 const melting = multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEntity,"melting",{},{
-  _output:[//12
+  _output:[
 [null,[["gittech-bronze-liquid",6]],null],
 [null,[["gittech-silver-liquid",6]],null],
 [null,[["gittech-gold-liquid",6]],null],
@@ -14,7 +14,7 @@ const melting = multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEnti
 [null,[["gittech-steel-liquid",6]],null],
 [null,[["gittech-electronium-liquid",6]],null]
 ],
-  _input:[//12
+  _input:[
 [[["copper",3],["gittech-tin",1]],null,3],
 [[["gittech-silver-k",9]],null,3],
 [[["gittech-gold-k",9]],null,3],
@@ -36,14 +36,8 @@ const melting = multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEnti
   isSameOutput:[],
 });
 
+melting.layer = Layer.turret
 melting.enableInv=false;
 melting.dumpToggle=false;
-melting.localizedName="Плавильня метала";
-melting.description="Плавит метал в из которого потом можно крафтить слитки";
-melting.itemCapacity= 20;
-melting.liquidCapacity= 30;
-melting.size= 2;
-melting.health= 100;
 melting.craftEffect= Fx.pulverizeMedium;
 melting.updateEffect = Fx.none;
-melting.requirements(Category.crafting,ItemStack.with(Items.copper,30,Items.lead,25));

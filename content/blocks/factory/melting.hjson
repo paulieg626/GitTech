@@ -1,1 +1,13 @@
+localizedName:"Плавильня метала"
+description:"Плавит метал в из которого потом можно крафтить слитки"
 research:graphite-press
+hasPower:true
+size:2
+health:140
+itemCapacity:20
+liquidCapacity:30
+requirements:[
+copper/30
+lead/25
+]
+category:crafting

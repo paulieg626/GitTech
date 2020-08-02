@@ -6,6 +6,4 @@ health: 90
 buildCostMultiplier: 2
 category: distribution
 research: router
-requirements: [
-bronze/3
-]
+requirements: [ bronze/3 ]

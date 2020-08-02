@@ -1,0 +1,7 @@
+type:material
+name: "Торф"
+description: "Горючий материал"
+color: "#70503A"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.45

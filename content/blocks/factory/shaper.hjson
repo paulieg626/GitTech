@@ -1,1 +1,13 @@
+localizedName:"Формировавщик металла"
+description:"Формирует слитки из рассплавленного метала"
+health:35
+itemCapacity:5
+liquidCapacity:10
 research:graphite-press
+hasPower: true
+size:1
+requirements:[
+copper/7
+lead/6
+]
+category:crafting

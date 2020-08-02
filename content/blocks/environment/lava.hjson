@@ -1,5 +1,5 @@
 type: floor
-name: "Лава"
+name: "Lava"
 variants: 1
 isLiquid: true
 liquidDrop: lava-liquid

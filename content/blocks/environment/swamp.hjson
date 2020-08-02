@@ -1,0 +1,6 @@
+type: floor
+name: "Swamp"
+variants: 6
+isLiquid: true
+liquidDrop: swamp-liquid
+oreDefault: true

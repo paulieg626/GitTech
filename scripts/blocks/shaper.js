@@ -1,5 +1,5 @@
-const multiLib=require("wrapper");
-const shaper = multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEntity,"shaper",{},{
+const multiLib2=require("wrapper");
+const shaper = multiLib2.extend(GenericSmelter,GenericCrafter.GenericCrafterEntity,"shaper",{},{
   _output:[//12
 [[["gittech-bronze",2]],null,null],
 [[["gittech-silver",2]],null,null],
@@ -38,12 +38,5 @@ const shaper = multiLib.extend(GenericSmelter,GenericCrafter.GenericCrafterEntit
 
 shaper.enableInv=false;
 shaper.dumpToggle=false;
-shaper.localizedName="Формировавщик метала";
-shaper.description="Формирует слитки из рассплавленного метала";
-shaper.itemCapacity= 5;
-shaper.liquidCapacity= 10;
-shaper.size= 1;
-shaper.health= 100;
 shaper.craftEffect= Fx.pulverizeMedium;
 shaper.updateEffect = Fx.none;
-shaper.requirements(Category.crafting,ItemStack.with(Items.copper,30,Items.lead,25));

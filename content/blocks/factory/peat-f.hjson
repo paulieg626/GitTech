@@ -1,0 +1,20 @@
+//type:GenericSmelter
+name:"Торфовый обработчик"
+description:"Обробатывает болотную жижу"
+outputItem:peat/1
+size:3
+hasPower:true
+hasItems:true
+craftTime:35
+updateEffect:steam
+itemCapacity:20
+consumes:{
+power:0.5
+liquid:swamp-liquid/0.05
+}
+requirements:[
+copper/30
+lead/25
+]
+category:crafting
+research:router
