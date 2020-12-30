@@ -1,4 +1,4 @@
-# GitTech
+# GitTech Mindustry 5.0
 ![](https://raw.githubusercontent.com/paulieg626/GitTech/master/icon.png)
 # En
 Techno mod
